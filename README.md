@@ -1,10 +1,11 @@
-- 👋 Hi there 👋
+Hi, I’m Yulin He!
 
-I’m @YULINHEEE
+My main focus is on data analytics, including data cleaning, visualization, statistical analysis, machine learning, and time series forecasting.
 
-- 👀 I’m interested in data science, environmental research, and leveraging data to solve real-world problems.
-- 🌱 I’m currently learning advanced data analytics techniques, machine learning, and data visualization.
-- 💞️ I’m looking to collaborate on projects that merge data science with environmental sustainability.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/yulin-he-740b16259) or email me at yulinhe9410@gmail.com.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have a passion for photography, love capturing the beauty of nature, and love hiking in nature reserves.
+I’m keen to collaborate on projects that connect data science with sustainability and social impact.
+
+Currently learning advanced analytics techniques and always excited to try new tools in Python and R.
+
+Reach me via LinkedIn or email: yulinhe9410@gmail.com
+
+Pronouns: She/Her
