@@ -6,6 +6,8 @@ I’m keen to collaborate on projects that connect data science with sustainabil
 
 Currently learning advanced analytics techniques and always excited to try new tools in Python and R.
 
-Reach me via LinkedIn or email: yulinhe9410@gmail.com
+LinkedIn: www.linkedin.com/in/yulinhe1008
+
+Email: yulinhe9410@gmail.com
 
 Pronouns: She/Her
