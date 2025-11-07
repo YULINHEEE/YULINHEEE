@@ -1,20 +1,33 @@
 **🙋🏻‍♀️ About Me**
 
-Hi, I’m Yulin He! Data analyst with expertise in data analysis and reporting, query optimization and data modelling.
+Hi, I’m Yulin He! 
 
-My Career Journey: Environmental Consultant --> Data Analyst. 
+• Data Scientist & AI Engineer passionate about building intelligent automation and data-driven solutions.
+
+• Led development of an AI Sales Co-Pilot integrating n8n, Supabase, Salesforce API, and Azure OpenAI for RAG.
+
+• Experienced in machine learning, data analysis, and workflow automation.
+
+• Focused on applying ML, automation, and data engineering to create scalable, real-world solutions.
 
 **📚 Expertise:**
 
-• Query Writing & Optimization - Writing efficient SQL queries, debugging performance issues and optimizing database queries for large datasets.
+• AI Workflow Design & Automation – Multi-agent orchestration with n8n, OpenAI API, Supabase.
 
-• Data Analysis & Visualization - Extracting insights using SQL, Python and R, and presenting findings through Tableau & Power BI.
+• Machine Learning & Model Development – Classification, regression, NLP using Python (scikit-learn, TensorFlow).
+
+• Data Analysis & Visualization – SQL, Python, R, Tableau, Power BI.
+
+• Data Modelling & Optimization – Schema design, query tuning, large-scale data handling.
+
 
 **🛠️ Tools:**
 
 • Language: SQL, Python, R, JavaScript
 
 • Database: PostgreSQL, MySQL
+
+• Frameworks & Platforms: n8n, LangChain, RAG, scikit-learn, TensorFlow, Azure OpenAI, Pinecone
 
 • Visualization: Tableau, Power BI
 
