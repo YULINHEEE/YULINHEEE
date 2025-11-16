@@ -35,6 +35,6 @@ Hi, I’m Yulin He!
 
 LinkedIn: www.linkedin.com/in/yulinhe1008
 
-Email: yulinhe9410@gmail.com
+Email: yulinhe1008@hotmail.com
 
 Pronouns: She/Her
